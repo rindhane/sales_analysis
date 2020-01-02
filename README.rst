@@ -16,4 +16,4 @@ Quick Features
 
 2. Using Seaborn to do the exploratory analysis.
 
-4. Comparing the performance of the models to find the right fit for the given problem.
+3. Comparing the performance of the models to find the right fit for the given problem.
